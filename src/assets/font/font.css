@@ -1,0 +1,8 @@
+@font-face {
+  /*给字体命名*/
+  font-family: 'pingfangSC';
+  /*引入字体文件*/
+  src: url('./苹方黑体-准-简.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
